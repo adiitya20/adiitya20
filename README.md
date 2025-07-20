@@ -1,9 +1,9 @@
 ## Hi, I'm Aditya
 
 🎓 Information Technology Student at PCCE Goa<br>
-💻 Full Stack Developer | Data Science Enthusiast<\br>
-📊 Passionate about building smart, scalable applications using modern tech<\br>
-📸 Connect with me on Instagram: linkedin.com/in/aditya-verlekar-81990b287<\br>
+💻 Full Stack Developer | Data Science Enthusiast<br>
+📊 Passionate about building smart, scalable applications using modern tech<br>
+📸 Connect with me on Instagram: linkedin.com/in/aditya-verlekar-81990b287<br>
 
 
 # 💻 Tech Stack:
